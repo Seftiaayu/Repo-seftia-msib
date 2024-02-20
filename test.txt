@@ -1,3 +1,5 @@
 Pertemuan 1
 Nama : Seftia Ayu Zian Kharisma
 Nim : 212210022
+
+Pengenalan Terminal dan Pengenalan Git
